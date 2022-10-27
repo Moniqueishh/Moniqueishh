@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Moniqueishh
+- 👋 Hi, I’m Monique!
 - 👀 I’m interested in learning how to code!
 - 🌱 I’m currently learning HTML, CSS & Javascript.
 - 💞️ I’m looking to collaborate on anyone who can help me learn.
