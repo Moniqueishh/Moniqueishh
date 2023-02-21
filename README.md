@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how to code!
 - 🌱 I’m currently learning HTML, CSS, Python & Javascript.
 - 💞️ I’m looking to collaborate with anyone who can help me learn.
-- 📫 How to reach me: Moniqueissh on Istagram, or Moniquev432@yahoo.com.
+- 📫 How to reach me: @Moniquee.jpg on Instagram, or Moniquev432@yahoo.com.
 
 <!---
 Moniqueishh/Moniqueishh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
